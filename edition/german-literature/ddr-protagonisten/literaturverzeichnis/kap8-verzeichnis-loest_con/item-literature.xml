@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="kap8-verzeichnis-loest_con" xml:lang="de-de">
+  <title>Literaturverzeichnis zu Erich Loest</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>Andreas Petersell</publisher>
+
+    <copyright>
+      <copyryear year="1996-2010"/>
+
+      <copyrholder>Andreas Petersell</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="18.01.2010"/>
+
+      <revised modified="29.09.2010"/>
+    </critdates>
+
+    <metadata>
+      <prodinfo>
+        <prodname>DDR-Protagonisten</prodname>
+
+        <vrmlist>
+          <vrm release="2010-01-07" version="0.1"/>
+        </vrmlist>
+      </prodinfo>
+    </metadata>
+    <resourceid id="kap8-verzeichnis-loest_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Primärliteratur</title><p otherprops="indent"
+    outputclass="indent">Erich Loest: Es geht seinen Gang oder Mühen in
+    unserer Ebene. München 1994, (dtv 10430)</p></section>
+
+    <section><title>Sekundärliteratur zu Erich Loest</title><p
+    otherprops="indent" outputclass="indent">Behn-Liebherz: Erich Loest. In:
+    Kritisches Lexikon zur deutschsprachigen Gegenwartsliteratur. Hrsg. Heinz
+    Ludwig Arnold. München 1978ff</p><p otherprops="indent"
+    outputclass="indent">Bernhardt, Rüdiger: Die Mühen des Wolfgang Wülff. In:
+    Neue Deutsche Literatur, H. 11/1978</p><p otherprops="indent"
+    outputclass="indent">Emmerich, Wolfgang: Kleine Literaturgeschichte der
+    DDR. Darmstadt 1984</p><p otherprops="indent"
+    outputclass="indent">Emmerich, Wolfgang: Der verlorenen Faden. Probleme
+    des Erzählens in den siebziger Jahren. In: Hohendahl/Herminghouse (Hrg):
+    Literatur der DDR in den siebziger Jahren, Frankfurt/M. 1983</p><p
+    otherprops="indent" outputclass="indent">Grunenberg, Antonia: Aufbruch der
+    inneren Mauer. Politik und Kultur in der DDR 1971-1990, Bremen 1990</p><p
+    otherprops="indent" outputclass="indent">Hillmann, Heinz: Subjektivität in
+    der Prosa. In: Hansers Sozialgeschichte der deutschen Literatur, Bd. 11,
+    Hrg. Hans Jürgen Schmitt, München Wien 1983</p><p otherprops="indent"
+    outputclass="indent">Knowlton, James: »Mit dem Sozialismus gewachsen«
+    Erich Loest´s Novel Es geht seinen Gang oder Mühen in unserer Ebene And
+    Recent GDR Cultural Policy. In: Neophilologus, Bd. 68, H.4, Ok-tober 1984,
+    Groningen</p><p otherprops="indent" outputclass="indent">Labroisse, Gerd:
+    Erich Loest: Es geht seinen Gang oder Mühen in unserer Ebene. In: Deutsche
+    Bücher, VIII/2/1978, Amsterdam (Editions Rodopi)</p><p otherprops="indent"
+    outputclass="indent">Loest, Erich: Der vierte Zensor. Vom Entstehen und
+    Sterben eines Romans in der DDR. Köln 1984 </p><p otherprops="indent"
+    outputclass="indent">Mohr, Heinrich: Mühen in unserer Ebene. Erich Loest
+    und sein neuer Roman. In: Deutschland-Archiv, H.8/1978, Köln 1978</p><p
+    otherprops="indent" outputclass="indent">Neubert, Werner: Es geht seinen
+    Gang. In: Sonntag Nr. 31, 1978</p><p otherprops="indent"
+    outputclass="indent">O´Pecko, Michael: Thematic Continuity in the Novels
+    of Erich Loest. In: The International Fiction Review, Vol. 18/1, Carleton
+    1991</p><p otherprops="indent" outputclass="indent">Schlösser, Horst
+    Dieter: »Wenn sich im Kraftwerk die Turbine dreht...« Literarische
+    Auskünfte über die Arbeitswelt. In: Die DDR-Gesellschaft im Spiegel ihrer
+    Literatur, Hrsg. v. Gisela Helwig, Köln 1986</p><p otherprops="indent"
+    outputclass="indent">Schmitt, Hans Jürgen: Die journalistische Bedeutung
+    neuerer Erzählformen. In: Hansers Sozialgeschichte der deutschen
+    Literatur, Bd. 11, Hrg. Hans Jürgen Schmitt, München Wien
+    1983</p></section>
+  </conbody>
+</concept>

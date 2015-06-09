@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="keydef-ddrprotag" scope="local" title="Container DDR-Protagonisten"
+     xml:lang="de-de">
+ 
+  <keydef href="kap1-auswahl_con/item-literature.xml" keys="kap1-auswahl_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="kap2-ueberblick_con/literature.xml" keys="kap2-ueberblick_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="kap3-loest_con/item-literature.xml" keys="kap3-loest_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="kap4-becker_con/item-literature.xml" keys="kap4-becker_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="kap5-maron_con/item-literature.xml" keys="kap5-maron_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="kap6-hein_con/item-literature.xml" keys="kap6-hein_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="kap7-schluss_con/item-literature.xml" keys="kap7-schluss_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="literaturverzeichnis/item-literature.xml" keys="literaturverzeichnis" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="literaturverzeichnis/kap8-verzeichnis-ddrliteratur_con/item-literature.xml"
+          keys="kap8-verzeichnis-ddrliteratur_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="literaturverzeichnis/kap8-verzeichnis-becker_con/item-literature.xml"
+          keys="kap8-verzeichnis-becker_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="literaturverzeichnis/kap8-verzeichnis-hein_con/item-literature.xml"
+          keys="kap8-verzeichnis-hein_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="literaturverzeichnis/kap8-verzeichnis-loest_con/item-literature.xml"
+          keys="kap8-verzeichnis-loest_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+
+  <keydef href="literaturverzeichnis/kap8-verzeichnis-maron_con/item-literature.xml"
+          keys="kap8-verzeichnis-maron_con" scope="local"
+          type="concept" xml:lang="de-de"/>
+</map>

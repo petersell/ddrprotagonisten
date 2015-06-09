@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="ueber-den-autor_con" xml:lang="de-de">
+  <title>Über den Autor</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>Andreas Petersell</publisher>
+
+    <copyright>
+      <copyryear year="1996-2011"/>
+
+      <copyrholder>Andreas Petersell</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="30.08.2011"/>
+
+    </critdates>
+
+    <metadata>
+      <prodinfo>
+        <prodname>DDR-Protagonisten</prodname>
+
+        <vrmlist>
+          <vrm release="2010-01-07" version="0.1"/>
+        </vrmlist>
+      </prodinfo>
+    </metadata>
+    <resourceid id="ueber-den-autor_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Kurzbiographie</title><image align="bottom"
+    alt="Andreas Petersell" href="../../includes/images/andreas-petersell.gif"
+   placement="break"/><p>Der Autor wurde 1966 in Berlin,
+    der damaligen <i>Hauptstadt der DDR</i>, geboren. Nach der Schule 1983
+    erlernte er den Beruf des Elektromonteurs. Ab 1986 holte er das Abitur auf
+    einer Berliner Volkshochschule nach. Da die DDR-Hochschullandschaft keine
+    Magisterstudiengänge kannte, startete er 1990 sein Lehramtsstudium für
+    Deutsch und Englisch. Die vorliegende Arbeit ist die Wissenschaftliche
+    Hausarbeit zur Ersten Staatsprüfung für das Amt des Studienrats,
+    eingereicht in Berlin am 13. Juni 1996. Diese Arbeit wurde von der
+    Prüfungskommission unter der Leitung von Prof. F. Hörnigk mit der Note
+    <i>Sehr gut</i> (1,3) bewertet.</p><p>Andreas Petersell ist verheiratet
+    und hat 2 Kinder. Er arbeitet heute als Technischer
+    Redakteur in Berlin.</p></section>
+
+    <section><title>Kontakt</title><p>Am besten in Kontakt kommen läßt es sich
+    über Google+ - Das Profil des Autor finden Sie unter <xref format="html"
+    href="http://gplus.to/petersell"
+    scope="external">http://gplus.to/petersell</xref></p></section>
+  </conbody>
+</concept>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="content-ddrprotag-loest" scope="local" title="Content DDR-Protagonisten Loest"
+     xml:lang="de-de">
+  <mapref keyref="edition/german-literature/ddr-protagonisten/keydef-ddrprotag.ditamap"
+          processing-role="resource-only"/>
+<topicgroup collection-type="sequence">
+  <topicref keyref="kap3-loest_con.xml" id="loest_con" scope="local"
+            toc="yes" type="concept" xml:lang="de-de"/>
+
+  <topicref keyref="kap8-verzeichnis-loest_con.xml"
+            scope="local" toc="yes" type="concept"
+            xml:lang="de-de"/>
+</topicgroup>            
+</map>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="content-ddrprotag" scope="local" title="Content DDR-Protagonisten"
+     xml:lang="de-de">
+  <mapref href="edition/german-literature/ddr-protagonisten/keydef-ddrprotag.ditamap"
+          processing-role="resource-only"/>
+<topicref keyref="ddr-protagonisten" collection-type="sequence">
+  <topicref keyref="kap1-auswahl_con" scope="local" toc="yes" type="concept" xml:lang="de-de"/>
+
+  <topicref keyref="kap2-ueberblick_con" scope="local" toc="yes" type="concept" xml:lang="de-de"/>
+
+  <topicref keyref="kap3-loest_con" scope="local"
+            toc="yes" type="concept" xml:lang="de-de"/>
+
+  <topicref keyref="kap4-becker_con" scope="local" toc="yes" type="concept" xml:lang="de-de"/>
+
+  <topicref keyref="kap5-maron_con" scope="local"
+            toc="yes" type="concept" xml:lang="de-de"/>
+
+  <topicref keyref="kap6-hein_con" scope="local"
+            toc="yes" type="concept" xml:lang="de-de"/>
+
+  <topicref keyref="kap7-schluss_con" scope="local" toc="yes" type="concept" xml:lang="de-de"/>
+  
+  <topicref keyref="literaturverzeichnis">
+  
+  <topicref keyref="kap8-verzeichnis-ddrliteratur_con"
+            scope="local" toc="yes" type="concept"
+            xml:lang="de-de"/>
+
+  <topicref keyref="kap8-verzeichnis-loest_con"
+            scope="local" toc="yes" type="concept"
+            xml:lang="de-de"/>
+
+  <topicref keyref="kap8-verzeichnis-becker_con"
+            scope="local" toc="yes" type="concept"
+            xml:lang="de-de"/>
+
+  <topicref keyref="kap8-verzeichnis-maron_con"
+            scope="local" toc="yes" type="concept"
+            xml:lang="de-de"/>
+
+  <topicref keyref="kap8-verzeichnis-hein_con"
+            scope="local" toc="yes" type="concept"
+            xml:lang="de-de"/>
+  </topicref>          
+</topicref>            
+</map>

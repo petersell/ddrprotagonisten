@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="content-ddrprotag-maron" scope="local" title="Content DDR-Protagonisten Maron"
+     xml:lang="de-de">
+  <mapref keyref="edition/german-literature/ddr-protagonisten/keydef-ddrprotag.ditamap"
+          processing-role="resource-only"/>
+<topicgroup collection-type="sequence">
+  <topicref keyref="kap5-maron_con.xml" id="maron_con" scope="local"
+            toc="yes" type="concept" xml:lang="de-de"/>
+
+  <topicref keyref="kap8-verzeichnis-maron_con.xml"
+            scope="local" toc="yes" type="concept"
+            xml:lang="de-de"/>
+</topicgroup>            
+</map>

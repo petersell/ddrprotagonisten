@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="titel_con" xml:lang="de-de">
+  <title/>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <author type="contributor">seminarwork.com</author>
+
+    <source/>
+
+    <copyright>
+      <copyryear year="2015"/>
+
+      <copyrholder>Andreas Petersell</copyrholder>
+    </copyright>
+
+    <metadata>
+      <prodinfo>
+        <prodname>ddrprotag</prodname>
+
+        <vrmlist>
+          <vrm release="2015-02-10" version="2"/>
+        </vrmlist>
+
+        <featnum>Seminarwork</featnum>
+
+        <series>German Literature</series>
+      </prodinfo>
+    </metadata>
+  </prolog>
+
+  <conbody>
+    <p id="autor" otherprops="center-big">Andreas Petersell</p>
+
+    <p id="buchtitel" otherprops="center-big">Zwischen Selbstsicherheit und Selbstzweifel: Findung und Wahrung der Identität in einer repressiven Gesellschaft</p>
+
+    <p id="buchuntertitel" otherprops="center-small">Die Protagonisten der DDR-Erzählprosa der 70er und 80er Jahre</p>
+  </conbody>
+</concept>
