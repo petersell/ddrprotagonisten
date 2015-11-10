@@ -5,7 +5,10 @@
      xml:lang="de-de">
   <mapref href="edition/german-literature/ddr-protagonisten/keydef-ddrprotag.ditamap"
           processing-role="resource-only"/>
-<topicref keyref="ddr-protagonisten" collection-type="sequence">
+<!-- topicgroup fuer collection-type sequence, so online die Weiter-Links unten -->          
+<topicgroup collection-type="sequence">         
+  <topicref keyref="ddr-protagonisten" scope="local" toc="yes" type="concept" xml:lang="de-de"/>
+  
   <topicref keyref="kap1-auswahl_con" scope="local" toc="yes" type="concept" xml:lang="de-de"/>
 
   <topicref keyref="kap2-ueberblick_con" scope="local" toc="yes" type="concept" xml:lang="de-de"/>
@@ -45,5 +48,5 @@
             scope="local" toc="yes" type="concept"
             xml:lang="de-de"/>
   </topicref>          
-</topicref>            
+</topicgroup>            
 </map>

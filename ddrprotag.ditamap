@@ -3,16 +3,16 @@
 <pubmap xml:lang="de-de">
   <pubtitle> <mainpubtitle>Protagonisten der DDR-Literatur der 70er und 80er Jahre</mainpubtitle></pubtitle>
   <pubmeta>
-  <author>Andreas Petersell</author> <publisherinformation><organization>seminarwork.com</organization></publisherinformation>
+  <author>Andreas Petersell</author> <publisherinformation><organization>petersell.com</organization></publisherinformation>
   <keywords>
   <keyword>DDR-Literatur</keyword>
-      <keyword>East German Literature</keyword>
-      <keyword>Zensur</keyword>
-      <keyword>Censorship</keyword>
-      <keyword>Monika Maron</keyword>
-      <keyword>Jurek Becker</keyword>
-      <keyword>Erich Loest</keyword>
-      <keyword>Christoph Hein</keyword>
+  <keyword>East German Literature</keyword>
+  <keyword>Zensur</keyword>
+  <keyword>Censorship</keyword>
+  <keyword>Monika Maron</keyword>
+  <keyword>Jurek Becker</keyword>
+  <keyword>Erich Loest</keyword>
+  <keyword>Christoph Hein</keyword>
   </keywords> <prodinfo>
     <prodname>ddrprotag</prodname>
     <vrmlist>
@@ -21,7 +21,7 @@
     </vrmlist>
     </prodinfo> <pubrights> <copyrfirst> <year>2011</year> </copyrfirst> <copyrlast>
     <year>2015</year> </copyrlast>
-    <pubowner><organization>seminarwork.com</organization></pubowner> </pubrights>
+    <pubowner><organization>petersell.com</organization></pubowner> </pubrights>
     </pubmeta>
     <publication>
   <covers>
@@ -40,7 +40,7 @@
   <!-- Frontmatter -->
   <frontmatter>
       <topicref href="frontmatter/titel_con.xml" toc="yes" locktitle="yes"  navtitle="Titel" type="concept" xml:lang="de-de" product="online">
-      <topicmeta><author>Andreas Petersell</author><publisher>seminarwork.com</publisher>
+      <topicmeta><author>Andreas Petersell</author><publisher>petersell.com</publisher>
             <copyright>
 				<copyryear year="2015"></copyryear>
 				<copyrholder>Andreas Petersell</copyrholder>
