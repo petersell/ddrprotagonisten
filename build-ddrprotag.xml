@@ -29,18 +29,18 @@
 	
 	<target name="dita2epub">
 		<ant antfile="${dita-ot-dir}${file.separator}build.xml">
-			<property name="args.input" value="${basedir}${file.separator}${mapfile}"/>
-			<property name="output.dir" value="${out-dir}${file.separator}${pubname}${file.separator}epub"/>
+			<property name="args.input" value="${basedir}${file.separator}ddrprotag.ditamap"/>
 			<property name="transtype" value="epub"/>
 			<property name="args.filter" value="${basedir}${file.separator}filters${file.separator}petersell_online.ditaval" />
 			<property name="epub.exclude.auto.rellinks" value="true" />
-			<property name="epub.pubid.uri.stub" value="5.ditalog.com"/>
+			<property name="epub.pubid.uri.stub" value="petersell.com"/>
 			<!--  Change css file -->
 			<property name="args.css" value="${basedir}${file.separator}css${file.separator}petersell.css"/>
 			<!-- <property name="args.csspath" value="css"/> -->
 			<property name="args.copycss" value="yes"/>
 			<property name="outer.control" value="quiet"/>
 			<property name="clean.temp" value="yes"/>
+			<property name="output.dir" value="${out-dir}${file.separator}epub"/>
 		</ant>
 	</target>
 	
