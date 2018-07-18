@@ -11,9 +11,6 @@ Die Protagonisten der vier folgenden Werke sind Gegenstand einer Betrachtung:
 - Monika Maron: Flugasche (1981)
 - Christoph Hein: Der fremde Freund (1982)
 
-## Online
-auf [www.seminarwork.com](http://seminarwork.de/edition/german-literature/ddr-protagonisten) abrufbar.
-
 ## Download
 
 [![EPUB](/assets/images/download-epub.png)](https://github.com/petersell/ddrprotagonisten/raw/master/ddrprotagonisten.epub)
